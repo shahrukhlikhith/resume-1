@@ -129,6 +129,28 @@ html {
   width: 50%;
   padding: 0.5rem 0.5rem 0rem 1rem;
 }
+.body .resume .resume-content .resume-content-right .projects {
+  font-size: 0.75rem;
+  padding-bottom: 1rem;
+}
+.body .resume .resume-content .resume-content-right .projects strong {
+  color: #171717;
+}
+.body .resume .resume-content .resume-content-right .projects .heading {
+  font-size: 0.75rem;
+  font-weight: 900;
+  padding-bottom: 0.1rem;
+}
+.body .resume .resume-content .resume-content-right .projects .projects-content {
+  font-size: 0.563rem;
+}
+.body .resume .resume-content .resume-content-right .projects .projects-content .project .project-title {
+  font-weight: 600;
+}
+.body .resume .resume-content .resume-content-right .projects .projects-content ul {
+  padding-left: 0.9rem;
+  padding-bottom: 0.5rem;
+}
 .body .resume .resume-content .resume-content-right .skills {
   font-size: 0.75rem;
   padding-bottom: 1rem;
