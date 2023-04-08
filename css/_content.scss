@@ -72,6 +72,36 @@
         // margin-right: 2rem;
         // border: 1px solid red;
 
+        .projects {
+            font-size: 0.75rem;
+            padding-bottom: 1rem;
+
+            strong {
+                color: #171717;
+            }
+
+            .heading {
+                font-size: 0.75rem;
+                font-weight: 900;
+                padding-bottom: 0.1rem;
+            }
+
+            .projects-content {
+                font-size: 0.563rem;
+
+                .project {
+                    .project-title {
+                        font-weight: 600;
+                    }
+                }
+
+                ul {
+                    padding-left: 0.9rem;
+                    padding-bottom: 0.5rem;
+                }
+            }
+        }
+
         .skills {
             font-size: 0.75rem;
             padding-bottom: 1rem;
